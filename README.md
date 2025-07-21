@@ -1,6 +1,9 @@
+## Integrantes: Korol Micaela, Lescano Guadalupe
+### 🚰 Pre-Entrega 2 y 3: Incluyen el análisis exploratorio de datos y modelos de aprendizaje supervisado.
+### 🚰 Pre-Entrega 4:  Incluye el análisis exploratorio de datos y modelos de aprendizaje no supervisado.
+
 # 💧 Tema elegido: Clasificación de Agua Potable
 ## Predicción de la potabilidad del agua según parámetros físico-químicos establecidos por el Código Alimentario Argentino.
-
 ---
 
 ### 🧾 Descripción del Proyecto:
@@ -22,3 +25,5 @@ Este modelo puede servir como una herramienta de apoyo para el monitoreo de la c
 
 ### 🚰 Dataset utilizado  
 🔗 [Water_quality.csv (GitHub)](https://media.githubusercontent.com/media/micaelakorol21/dataset_water_quality/refs/heads/main/Water_quality.csv)
+
+
